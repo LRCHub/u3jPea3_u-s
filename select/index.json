@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Tears",
+  "base_artist": "KEIJU",
+  "createdAt": "2026-02-15T10:26:07.981270Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Maple Syrup Tears",
+      "artist": "Huron John",
+      "has_synced": true,
+      "path": "select/01_Maple_Syrup_Tears_Huron_John.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Maple Syrup Tears",
+      "artist": "Huron John",
+      "has_synced": false,
+      "path": "select/02_Maple_Syrup_Tears_Huron_John.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Save Your Tears",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/03_Save_Your_Tears_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Save Your Tears (with Ariana Grande) (Remix)",
+      "artist": "The Weeknd feat. Ariana Grande",
+      "has_synced": true,
+      "path": "select/04_Save_Your_Tears_(with_Ariana_Grande)_(Remix)_The_Weeknd_feat._Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My Blue Tears",
+      "artist": "Dolly Parton",
+      "has_synced": false,
+      "path": "select/05_My_Blue_Tears_Dolly_Parton.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Time For Tears",
+      "artist": "Jo Dee Messina",
+      "has_synced": true,
+      "path": "select/06_No_Time_For_Tears_Jo_Dee_Messina.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Up To My Ears In Tears",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/07_Up_To_My_Ears_In_Tears_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tears Dry On Their Own",
+      "artist": "Amy Winehouse",
+      "has_synced": false,
+      "path": "select/08_Tears_Dry_On_Their_Own_Amy_Winehouse.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tears and Rain",
+      "artist": "James Blunt",
+      "has_synced": true,
+      "path": "select/09_Tears_and_Rain_James_Blunt.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "So Many Tears",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/10_So_Many_Tears_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tears in the Rain",
+      "artist": "Zomby",
+      "has_synced": false,
+      "path": "select/11_Tears_in_the_Rain_Zomby.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tears Are in Your Eyes",
+      "artist": "Yo La Tengo",
+      "has_synced": false,
+      "path": "select/12_Tears_Are_in_Your_Eyes_Yo_La_Tengo.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fall On Tears",
+      "artist": "Love Spit Love",
+      "has_synced": true,
+      "path": "select/13_Fall_On_Tears_Love_Spit_Love.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Flow My Tears the Spider Said",
+      "artist": "Liars",
+      "has_synced": false,
+      "path": "select/14_Flow_My_Tears_the_Spider_Said_Liars.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Self-Righteous Boy Reduced To Tears",
+      "artist": "The Loud Family",
+      "has_synced": false,
+      "path": "select/15_Self-Righteous_Boy_Reduced_To_Tears_The_Loud_Family.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Self Righteous Boy Reduced To Tears",
+      "artist": "Loud Family",
+      "has_synced": false,
+      "path": "select/16_Self_Righteous_Boy_Reduced_To_Tears_Loud_Family.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "All Your Tears",
+      "artist": "Mojave 3",
+      "has_synced": true,
+      "path": "select/17_All_Your_Tears_Mojave_3.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bitter Tears",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/18_Bitter_Tears_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tears",
+      "artist": "KEIJU",
+      "has_synced": false,
+      "path": "select/pl_01_Tears_KEIJU.txt"
+    }
+  ]
+}
