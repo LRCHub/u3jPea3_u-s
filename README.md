@@ -1,0 +1,50 @@
+# KEIJU – Tears
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Together we cool
+Together we cool
+もし離れてても
+同じ月を見る
+男は旅に出る　自分に賭け
+躱すトラブル
+探す Something new. I'm like
+落合. I got 俺流.
+シェフに米沢 Beef 俺 Starving
+まだ食う一晩中
+I think you don't understand
+俺の言うこと
+Now I'm laughin' to the bank
+揺らすその体　俺の言うこと
+現実にすぐやるさ
+まず俺のこと知らないのに平気に
+君　調子良いフリして Enemy
+喋る言葉でまくれる勝手に
+だから地元の仲間はみんな Get
+down
+Yay yay yay yay
+車は何？　AMGの中　嘘みたい
+世界に生きてる　目を覚まし
+自分で満ちてる　嘘じゃない
+あんたにはわからない
+全部賭けてる今これに
+海の底から雲の上見てる
+いつも誰かがどこかで
+離れてても同じ空の下
+たくさんの仲間　俺なら Won't
+stop
+大事なもの忘れりゃ何も無い
+嫌なことは忘れりゃいい OK？
+同じ星の下　気付けば Weekend
+Not a fxxkin'rock star
+理解なんていらない
+地球の隅っこで
+I just wanna love ya
+同じ星の下　気付けば Weekend
+Not a fxxkin'rock star
+仲間に忠誠
+理解なんていらない
+地球の隅っこで
+I just wanna love ya　短い人生
+```
